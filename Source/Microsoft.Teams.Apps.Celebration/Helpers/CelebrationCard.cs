@@ -107,7 +107,7 @@ namespace Microsoft.Teams.Apps.Celebration.Helpers
                                         {
                                             new AdaptiveImage()
                                             {
-                                                Url = new Uri(Common.GetImageUrlFromName("celebration_bot_full-color.png")),
+                                                Url = new Uri(Common.GetImageUrlFromName("Ce.png")),
                                                 Size = AdaptiveImageSize.Medium,
                                                 Style = AdaptiveImageStyle.Default,
                                             },
